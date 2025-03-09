@@ -11,13 +11,13 @@ O objetivo deste projeto é criar um sistema simples e eficiente para realizar o
 
 ## ⚙️Funcionalidades
 
-• <strong>Adicionar amigos:</strong> O usuário pode inserir nomes em um campo de entrada e adicioná-los à lista de participantes.
+• **Adicionar amigos:** O usuário pode inserir nomes em um campo de entrada e adicioná-los à lista de participantes.
 
-• <strong>Listagem dinâmica:</strong> Os nomes acrescentados são exibidos automaticamente na tela sem necessidade de recarregar a página.
+• **Listagem dinâmica:** Os nomes acrescentados são exibidos automaticamente na tela sem necessidade de recarregar a página.
 
-• <strong>Sorteio aleatório:</strong> Com um clique, o sistema seleciona aleatoriamente um dos nomes da lista.
+• **Sorteio aleatório:** Com um clique, o sistema seleciona aleatoriamente um dos nomes da lista.
 
-• <strong>Limpeza da lista:</strong> Antes de adicionar novos elementos, a lista é limpa para evitar duplicações e garantir que a exibição esteja sempre atualizada.
+• **Limpeza da lista:** Antes de adicionar novos elementos, a lista é limpa para evitar duplicações e garantir que a exibição esteja sempre atualizada.
 
 ## Ferramentas e tecnologias
 
@@ -39,6 +39,9 @@ O objetivo deste projeto é criar um sistema simples e eficiente para realizar o
 ## 🧪 Como Testar o Código
 Para garantir que o projeto funcione corretamente, realizamos os seguintes testes:
 
-<strong>:one:Adicionar amigos →</strong> Verificamos se os nomes digitados aparecem corretamente na lista.
-<strong>:two:Evitar entradas vazias →</strong> Testamos se o botão "Adicionar" não aceita campos vazios.
-Listagem dinâmica → Conferimos uma lista atualizada automaticamente após cada novo nome inserido.
+**:one:Adicionar amigos →**
+Verificamos se os nomes digitados aparecem corretamente na lista.
+
+**:two:Evitar entradas vazias →** Testamos se o botão "Adicionar" não aceita campos vazios.
+
+**:three: Listagem dinâmica →** Conferimos uma lista atualizada automaticamente após cada novo nome inserido.
