@@ -30,7 +30,7 @@ O objetivo deste projeto é criar um sistema simples e eficiente para realizar o
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
+   git clone https://github.com/leandritacosta/sorteio-AmigoSecreto
 
 2. Abra o arquivo index.html em um navegador.
 
