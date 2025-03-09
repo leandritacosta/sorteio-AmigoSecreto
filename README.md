@@ -19,6 +19,12 @@ O objetivo deste projeto é criar um sistema simples e eficiente para realizar o
 • <strong>Limpeza da lista:</strong> Antes de adicionar novos elementos, a lista é limpa para evitar duplicações e garantir que a exibição esteja sempre atualizada.
 
 <h2>Ferramentas e tecnologias</h2>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="40" height="40" />
+
+<img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
           
+
+<img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" /> 
+
+ 
+                   
 
