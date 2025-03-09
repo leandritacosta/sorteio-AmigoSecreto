@@ -25,6 +25,7 @@ O objetivo deste projeto é criar um sistema simples e eficiente para realizar o
 
 <img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" /> 
 
- 
+<img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+          
                    
 
