@@ -22,5 +22,14 @@ O objetivo deste projeto é criar um sistema simples e eficiente para realizar o
 
 <img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />   <img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" />   <img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
-                   
+ <h2>📜 Como Usar</h2>
+ 
+1. Clonar ou repositório:
+Copiar código
+git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
+2. Abra o arquivo index.htmlem um navegador.
+
+3. Digite os nomes dos participantes no campo de entrada e clique em "Adicionar".
+
+4. Após adicionar todos os participantes, clique no botão "Sortear" para selecionar um amigo secreto.                  
 
