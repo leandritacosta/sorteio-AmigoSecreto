@@ -44,4 +44,12 @@ Verificamos se os nomes digitados aparecem corretamente na lista.
 
 **:two:Evitar entradas vazias →** Testamos se o botão "Adicionar" não aceita campos vazios.
 
-**:three: Listagem dinâmica →** Conferimos uma lista atualizada automaticamente após cada novo nome inserido.
+**:three: Evitar entradas repetidas →** Testamos se o botão "Adicionar" não aceita campos repetidos. Ex: "Leandrita", "João", "Leandrita".
+
+**:four: Listagem dinâmica →** Conferimos uma lista atualizada automaticamente após cada novo nome inserido.
+
+**:five:Sorteio aleatório →** Repetimos o sorteio várias vezes para confirmar que os nomes são selecionados aleatoriamente.
+
+**:six:Limpeza da lista →** Testamos se a lista foi excluída corretamente ao adicionar novos elementos ou reiniciar o sorteio.
+
+## Contatos
