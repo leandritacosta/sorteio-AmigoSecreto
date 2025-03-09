@@ -25,9 +25,14 @@ O objetivo deste projeto é criar um sistema simples e eficiente para realizar o
  <h2>📜 Como Usar</h2>
  
 1. Clonar ou repositório:
-Copiar código
-git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
-2. Abra o arquivo index.htmlem um navegador.
+
+## 📜 Como Usar  
+
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
+
+2. Abra o arquivo index.html em um navegador.
 
 3. Digite os nomes dos participantes no campo de entrada e clique em "Adicionar".
 
