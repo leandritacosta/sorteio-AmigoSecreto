@@ -21,10 +21,9 @@ O objetivo deste projeto é criar um sistema simples e eficiente para realizar o
 
 ## Ferramentas e tecnologias
 
-<img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />   <img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" />   <img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" width="40" height="40"/> 
+<img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />   <img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"  width="40" height="40" />   <img loading="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> 
           
           
-
 ## 📜 Como Usar
 
 1. Clone o repositório:  
@@ -53,7 +52,8 @@ Verificamos se os nomes digitados aparecem corretamente na lista.
 
 **:six:Limpeza da lista →** Testamos se a lista foi excluída corretamente ao adicionar novos elementos ou reiniciar o sorteio.
 
-## Contatos
+
+## 📩Contatos
 <div>
           <a href="https://www.instagram.com/leandracostaofficial?igsh=MWR0cWJiOTh4cjF6Zg==" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
          <a href="https://www.linkedin.com/in/leandritacosta" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
