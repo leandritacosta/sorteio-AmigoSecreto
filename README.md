@@ -1,7 +1,7 @@
 <h1> 🎁 Sorteio Amigo Secreto</h1>
 
 
-#Olá, devs! Meu nome é Leandra Costa, sou desenvolvedora web desde 2024, sempre buscando aprender, compreender e aplicar meus conhecimentos adquiridos.
+#*Olá, devs! Meu nome é Leandra Costa, sou desenvolvedora web desde 2024, sempre buscando aprender, compreender, ensinar e aplicar conhecimentos adquiridos.*
 
 
 Abaixo estão os detalhes do projeto:
